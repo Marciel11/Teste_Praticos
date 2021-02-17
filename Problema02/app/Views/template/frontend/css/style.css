@@ -1,0 +1,103 @@
+
+table, td{
+width: 90px;
+border: 1px solid black;
+
+
+}
+.table {
+  margin: 190px;
+
+  margin-top: 50px;
+  width: 50%;
+  border-collapse: collapse;
+  
+}
+.form {
+  margin-left: 125px;
+  margin-right: 150px;
+  margin-top: 20px;
+  width: 50%;
+}
+
+.msg{
+  text-align: center;
+  color: green;
+  margin-right: 150px;
+}
+
+thead{
+ background-color: #0489B1; 
+ color:white;
+ text-align: center;
+}
+tr{
+   text-align: center;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+form{
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+    margin-left: 125px;
+  margin-right: 150px;
+  color: #212529;
+}
+
+.title{
+  margin-top: 20px;
+  color: cadetblue;
+  font-weight: bold;
+  margin-left: 190px;
+  
+}
+.input{
+     border: 2px solid #dadada;
+    border-radius: 7px;
+     outline: none;
+      width:200px;
+    box-shadow: 0 0 10px #9ecaed;
+}
+label{
+  margin-right: 80px;
+
+}
+.btn{
+ border: 2px solid #0489B1;
+     color:#0489B1; 
+    float:center; 
+    border-radius: 7px;
+    margin-left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn_03{
+ border: 2px solid #0489B1;
+     color:#0489B1; 
+    float:center; 
+    border-radius: 7px;
+    margin: 30px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+  margin: 30px;  	
+	width: 1000px;  	
+	background: #fff; 
+}
+.container2{
+    margin-right: 700px;		
+  text-underline-position: above;
+	background: #fff; 
+  text-align: center;
+  
